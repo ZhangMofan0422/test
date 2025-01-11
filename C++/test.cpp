@@ -7,5 +7,6 @@ int main()
     string name;
     cin >> name;
     cout << "Hello " << name << '!' << endl;
+    cout << "Hello2 " << name << '!' << endl;
     return 0;
 }
